@@ -1,0 +1,6 @@
+Credentials cache: API:B72EC3AB-7033-431F-9D4E-DC98EBF172EA
+        Principal: fasparag@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Sep 29 00:37:54 2020  Sep 29 10:37:54 2020  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
+Sep 29 00:37:56 2020  Sep 29 10:37:54 2020  HTTP/student-storage.msk.21-school.ru@MSK.21-SCHOOL.RU
